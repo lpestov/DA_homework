@@ -2,4 +2,4 @@
 
 ## Description
 
-This repository contains homework assignments for the Data Mining course (Minor) at the Higher School of Economics.
+This repository contains homeworks for the Data Mining course (Minor) at the Higher School of Economics.
